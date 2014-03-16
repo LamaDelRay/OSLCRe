@@ -1,0 +1,246 @@
+Opening file: Ifayela Ukuvula
+File opened: File wavula
+Begin processing files.: Qala ukucubungula amafayela .
+Processing finished.: Processing isiqedile .
+Processing cancelled.: Processing ikhanseliwe .
+Do you want to open a new package? The current one will close.: Ingabe ufuna ukuvula iphasela entsha ? Yilawo lamanje uyobe uvale .
+Confirm package open: Qinisekisa iphakeji evuliwe
+Unpacking files.: Unpacking amafayela .
+File contents cannot be shown: Okuqukethwe ifayela ongaboniswa
+Done: Kwenziw
+Error inserting file to a tab: Iphutha ukufaka ifayela kwithebhu
+Could not generate a tree from the chosen file/dir: Wahluleka ukhiqize esihlahleni kusukela ekhethiwe ifayela / Dir
+Choose Criteria: Khetha Inqubo
+Choose License: Khetha ICP
+Choose Match%: Khetha Ukumelana%
+File not found: Ifayela watholakala 
+Referred file cannot be shown: Ifayela okukhulunywa ongaboniswa
+File cannot be shown: Ifayela ongaboniswa
+File is not viewable: Ifayela akusilo ibukwe
+Close File: Vala Ifayela
+Print File: Ukhubala ifayela
+Preferences: Izintandokazi
+OK: OK
+Nothing here yet...: Akukho lutho lapha okwamanje... 
+Processing files: Ekucubunguleni amafayela
+Please wait.: Sicela ulinde .
+Details: imininingwane
+License :
+Count: Bala
+Matches: midlalo
+License 1:
+Icon:
+License 2:
+Conflicts (global): Izingxabano ( global ) :
+Open Source License Checker:
+version 3.0, 2008: ukulandisa 3.0.1, 2014
+All: Konke
+OSLC Help: Usizo OSLC
+OSLC V3.0: OSLC v3.0.1
+Overview: Uhlolojikelele
+Source Files: Umthombo Amafayela
+All Files: Wonke Amafayela
+Distinct Licenses: malayisense ahlukene
+Conflicts (reference): Izingxabano (inkomba)
+Details...: Imininingwane ...
+Filter: ihluzo
+Conflicting Files: Ephikisanayo Amafayela
+Missing Licenses: Ulahlekile Amalayisense
+Licensed Files: Amafayela ilayisensi
+Uncertain Licenses: Amalayisense engaqinisekile
+Show References: Bonisa Izinkomba
+Choose...: Khetha ...
+Close: vala
+Close All: Vala Wonke
+Print...: Phrinta ...
+Quit : niyeke
+View: Buka
+Show Overview: Bonisa Sibutsetelo
+Word Wrap: IZwi Songa 
+Options: okukhethwa kukho
+Preferences: Izintandokazi
+Help: usizo
+Help Contents: Siza Okuqukethwe
+File you selected does not exist: Ifayela akhethiwe akekho
+(self): (iwaquobo)
+Package Overview: Iphakheji Sibutsetelo
+Ready : lungiselwe
+File : Ifayela
+Open...: Vula ...
+Name of the license here: Igama ilayisensi lapha
+License text here: Umbhalo License lapha
+File name: Igama lefayela
+File path: Ifayela umzila
+Copyright holder: Umnikazi Ikophikwesokudla
+Copyrighted files: Amafayela Ikophikwesokudla
+Number of files: Inani amafayela
+Add new license...: Engeza ilayisensi entsha ...
+Next : emva kwalokho
+Select compatible licenses...: Khetha amalayisensi ehambisanayo ...
+Finish: esiphelweni
+List of all licenses: Uhlu wonke amalayisensi
+Select a license and press button to view the compatible licenses.: Khetha ilayisensi kanye inkinobho ucindezela ukubuka amalayisensi ehambisanayo .
+List compatible licenses: Bhala amalayisensi ehambisanayo
+Copyrighted Files: Amafayela Ikophikwesokudla
+Copyright Holders: Abanamasheya Ikophikwesokudla
+Tools: Amathuluzi
+List compatible licenses...: Uhlu amalayisensi ehambisanayo ...
+License with that name already exists!: Ilayisense nalelo gama selikhona vele !
+Error: iphutha
+Create %s license?: Yakha ilayisensi %s ?
+Add new license?: Engeza ilayisensi entsha ?
+no row selected: akukho irowu ekhethiwe
+SELECTED LICENSE %s HAS NO COMPATIBLE LICENSES.: Ezikhethiwe Ilayisensi %s alinayo amalayisensi ahambisanayo .
+Chosen license has no compatible licenses: Ilayisensi akhethwa ayinakho amalayisensi ehambisanayo
+File you selected does not exist: Ifayela akhethiwe akekho
+Select language: Khetha ulimi
+Create new language file: Yakha ifayela entsha yolimi
+This file is missing a license: Leli fayela ishoda ICP
+This file corresponds to: Leli fayela ihambelana
+several licenses: amalayisensi ambalwa
+Error highlighting: Iphutha ukugqamisa
+This file is not a source file: Leli fayela akuyona ifayela eliwumthombo
+License %s conflicts with %s in %s: Ilayisensi %s kungqubuzana %s ku %s
+Details: imininingwane
+File Overview: Ifayela Uhlolojikelele:
+Legend : indawo yesendulo
+License : Ilayisensi
+Match%: Madanisa% :
+Matches: midlalo
+Tag : ithegi
+Value :	ukubaluleka
+Free fields : amasimu khulula
+Details: imininingwane
+This file has license conflicts (click to show): Leli fayela likwazi ilayisense izingxabano ( Vhupo )
+No files: Ayikho amafayela
+Max % : Esiphezulu%
+Global : Okuyimbulunga
+License 1 : Ilayisensi 1
+Conflict: ingxabano
+License 2 : Ilayisensi 2
+less than %1.0f%% match: engaphansi kuka %1.wa%% umdlalo :
+All : Wonke
+Reference to the java standard library: Ikhuluma java umtapo esezingeni
+Package declaration don't match with source file path: Iphakheji simemezelo nokulandisa ifayela eliwumthombo umzila
+Package declaration missing: Iphakheji simemezelo ulahlekile
+Empty import declaration: Ezingenalutho yokungenisa simemezelo
+Empty declaration: Simemezelo esingenalutho
+Reference points above root directory: Inkomba amaphuzu angenhla impande lwemibhalo :
+Reference to www document: Kukhulunywa www mbhalo
+Reference includes variable: Inkomba kuhlanganisa guquguqukayo
+Reference include variables e.g. path: Inkomba zihlanganisa eziguquguqukayo isb umzila :
+Empty include declaration: Ezingenalutho zihlanganisa simemezelo
+Abreviation not found.: Abreviation ayitholakali.
+License directory file not found: Isiqondisi ilayisense ifayela awutholakalanga
+Found license meta file: Ethomakelele Ilayisensi meta ifayela
+Loading license text file: Iyalayisha Ilayisensi umbhalo ifayela
+Error while opening license text file: Iphutha ngenkathi uvula ilayisense umbhalo ifayela
+Loaded license: Ilayisensi Fithizela
+License text file: Ifayela umbhalo Ilayisensi
+doesn't exist: engekho
+is null while its meta exists.: kuyinto null ngenkathi meta layo ikhona .
+Error while loading license file: Iphutha ngenkathi ifayela ilayisense Iyalayisha
+License database loaded: Imininingoisiza ilyisense Fithizela
+Browse repository folders: Dlulisa amehlo amafolda Igumbi
+Cancel: khansela
+Choose the folder(s) you want to checkout from the repository.: Khetha ifolda ufuna Checkout kusuka onalo .
+Help: usizo
+SVN Checkout : Ngahlola SVN
+Checked out revision: Ngahlola ukulungisa :
+SVN command failed: SVN myalo sehlulekile 
+CVS checkout: Ngahlola CVS
+Checking out...: Ihlola phandle ...
+Checkout cancelled: Ngahloli kukhanseliwe
+checkout failed: Ngahloli sehlulekile
+Finish: esiphelweni
+Next : Emva kwalokho
+Back: emuva
+CVS root: CVS izimpande
+specify the location of CVS repository defined by CVS root.: ucacise indawo CVS Igumbi ochazwa CVS izimpande.
+Stop: Misa
+Password: Inombolo eyimfihlo
+Authentication in progress...: Ukufakazela ubuqiniso kuyaqhubeka...
+Edit: Hlela
+Module to checkout: MODULE kuya Ngahlola
+Specify the CVS module and branch  to checkout from CVS repository.: Icacise module CVS kanye igatsha ukuze Checkout kusuka CVS Igumbi.
+Module: MODULE
+Branch : Igatsha
+(empty means all modules): ( ezingenalutho kusho wonke amamojula )
+Browse...: Pheqa...
+Specify the local folder to checkout module into.: Icacise ifolda wendawo ukuba nghaloli module zibe .
+Local folder: Ifolda wendawo
+please check username, password and repository: sicela uhlole igama lomsebenzisi , iphasiwedi kanye Igumbi
+Error: iphutha
+Browse CVS repository: Cinga CVS Igumbi
+Aliases: iziteketiso
+Pending...: Okulindile...
+Repository Contents: Okuqukethwe Igumbi
+Select All: Khetha Konke
+Copy: Ikhophi
+Paste: Namathisela
+Subversion repository: SVN Igumbi
+Specify the location of Subversion repository.: Cacisa indawo SVN Igumbi.
+Repository URL: URL Igumbi
+Username: Igama lomsebenzisi
+(empty means anonymous access): (ezingenalutho kusho ukufinyelela engaziwa)
+Connecting to Subversion repository...: Ixhuma SVN Igumbi...
+hostname/repository_path: Igama lokusingatha / repository_path
+Specify the folder to checkout from Subversion repository.: Icacise ifolda ukuze nghalolo kusuka SVN Igumbi.
+Repository Folder(s): Ifolda Igumbi
+Repository revision: Ukulungisa Igumbi
+Search : Ukucinga
+Specify the local folder to checkout folders into.: Icacise ifolda wendawo ukuba nghalolo amafolda zibe.
+repository_path :
+action cancelled by user: Isenzo kukhanselwe umsebenzisi
+SVN command failed: SVN myalo sehlulekile
+Apply: Faka isicelo
+Enter license name and text: Faka igama ilayisensi nombhalo
+Select compatible licenses: Khetha amalayisensi ehambisanayo
+Add new license: Engeza ilayisensi entsha
+License name: Igama ilayisensi
+License text: Umbhalo ilayisensi
+License type: Hlobo ilayisensi
+Normal: okuvamile
+Short version: Ukulandisa okufutshane
+Long version: Ukulandisa langazelela 
+Forbidden phrase: Nkulumo okwakwenqatshelwe
+License : ilayisenso
+Compatible: ehambisanayo
+Select all: Khetha konke
+Select none: Khetha akukho
+Invert selection: Ukukhetha Faka
+License name is empty: Igama Ilayisensi awunalutho
+License text is empty: Umbhalo Ilayisensi awunalutho
+Could not generate a tree from the chosen file/dir: Wahluleka ukhiqize esihlahleni kusukela ekhethiwe ifayela/ifolda
+Close file: Vala ifayela
+Print file: Ifayela ukhubala
+Preferences: Izintandokazi
+Processing files: Ekucubunguleni amafayela
+Please wait: Sicela ulinde
+Details: imininingwane
+Package Overviex : Iphakheji Sibutsetelo
+Matches: midlalo
+Copyright holders: Abanikazi Ikophikwesokudla
+version 3.0, 2009: version 3.0.1 , 2014
+Export report...: Umbiko thekelisa ...
+Download license database...: Ilayisensi Thwebula database ...
+Download license database: Download ilayisensi database
+Download: download
+Status: Isimo
+idle: lutho
+No package available: Ayikho iphakheji etholakalayo
+Select licenses: Khetha amalayisensi
+Compatible licenses: Amalayisensi ehambisanayo
+Use licenses of current package: Sebenzisa amalayisensi of iphakeji wamanje
+Please note that the listed licenses are compatible <br>\nindividually - not necessarily if combined: Sicela uqaphele ukuthi le amalayisensi ohlwini kukhona ehambisanayo wapdam <br>\nindividually - hhayi ngempela uma ehlangene
+Delete license...: Susa ilayisensi ...
+Folder(s) to checkout: Ifolda kuya nghalolo
+Local Folder: Ifolda Local
+Browse:Dlulisa amehlo
+Long Version:
+Short Version: Inguqulo iDemo
+Forbidden phrase: Nkulumo okwakwenqatshelwe
+Select compatible licenses: Khetha amalayisensi ehambisanayo
+Create license %s: Yakha ilayisensi %s
+Save license %s: Londolonza ilayisensi %s
+Delete license: Susa ICP

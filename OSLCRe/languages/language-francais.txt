@@ -1,0 +1,246 @@
+Opening file: Ouverture du fichier
+File opened: Fichier ouvert
+Begin processing files.: Commencer le traitement des dossiers.
+Processing finished.: Traitement terminé
+Processing cancelled.: Traitement annulé;
+Do you want to open a new package? The current one will close.: Voulez vous ouvrir un nouveau paquet? L'actuel se fer,e/
+Confirm package open: Confirmez l'ouverture du paquet
+Unpacking files.: Depaquetage des fichiers
+File contents cannot be shown: Le contenu des fichiers ne peuvent etre montré
+Done: Fait
+Error inserting file to a tab: Erreur d'insertion du fichier à un onglet
+Could not generate a tree from the chosen file/dir: Impossible de generer un arbre à partir du fichier/répertoire choisi
+Choose Criteria: Choisissez les critères
+Choose License: Choisissez la/les licences
+Choose Match%: Choisissez les % de correspondances 
+File not found: Fichier non trouvé
+Referred file cannot be shown: Dossier visé ne peut pas être indiqué
+File cannot be shown: Le fichier ne peut pas être affiché
+File is not viewable: Le fichier n'est pas visible
+Close File: Fermer le fichier
+Print File: Imprimer le fichier
+Preferences: Préférences
+OK:
+Nothing here yet...: Pour l'instant rien...
+Processing files: Dossiers en cours de traitement
+Please wait.: Attendez s'il vous plait.
+Details:
+License: Licence
+Count: Compte
+Matches: Correspondances
+License 1: Licence 1
+Icon: Icône
+License 2: Licence 2
+Conflicts (global): Conflits (global)
+Open Source License Checker: Open Source Licence Checker
+version 3.0, 2008: version 3.0.1, 2014
+All: Tous
+OSLC Help: Aide OSLC
+OSLC v3.0: OSLC v3.0.1
+Overview: Vue d'ensemble
+Source Files: Fichiers Source
+All Files: Tous les fichiers
+Distinct Licenses: Licences distinctes
+Conflicts (reference): Conflits (référence)
+Details...: Détails ...
+Filter: Filtre
+Conflicting Files: Conflits de fichiers
+Missing Licenses: Licences manquantes
+Licensed Files: Fichiers autorisés
+Uncertain Licenses: Licences incertaines
+Show References: Voir les Références
+Choose...: Choisissez
+Close: Fermer
+Close All: Fermez tous
+Print...: Imprimer
+Quit : Quitter
+View: Voir
+Show Overview: Voir la vue d'ensemble
+Word Wrap:
+Options:
+Preferences:préférences
+Help: Aide
+Help Contents: Contenu de l'aide
+File you selected does not exist: Fichier n'existe pas
+(self): (auto)
+Package Overview: Vue d'ensemble du paquet
+Ready: Prêt
+File: Fichier
+Open...:Ouvrir
+Name of the license here: Nom de la licence =>
+License text here: Texte de la licence =>
+File name: Nom du fichier
+File path: Chemin du fichier
+Copyright holder: Le détenteur du copyright
+Copyrighted files: Fichiers protégés par le copyright
+Number of files: Nombre de fichiers
+Add new license...: Ajouter une nouvelle licence
+Next: Suivant
+Select compatible licenses...: Selectionnez les licences compatibles
+Finish: Terminer
+List of all licenses: Liste de toutes les licences
+Select a license and press button to view the compatible licenses.: Sélectionnez une licence et appuyez sur le bouton pour afficher les licences compatibles.
+List compatible licenses: Inscrivez les licences compatibles
+Copyrighted Files: Fichiers sujets au copyright
+Copyright Holders: Titulaires des droits d'auteurs
+Tools: Outils
+List compatible licenses...: Liste des licences compatibles
+License with that name already exists!: Une licence avec le meme nom existe déjà
+Error: Erreur
+Create %s license?: Créer %s licence?
+Add new license?: Ajouter une nouvelle licence?
+no row selected: Aucune ligne sélectionnée
+SELECTED LICENSE %s HAS NO COMPATIBLE LICENSES.: La licences choisie %s n'a aucune licences compatibles!
+Chosen license has no compatible licenses: La licence choisie n'a pas de licences compatibles
+File you selected does not exist: le fichier choisi n'existe pas
+Select language: Choisissez la langue
+Create new language file: Créer un nouveau fichier de langue
+This file is missing a license: Ce fichier n'a pas de licence
+This file corresponds to: Ce fichier correspond à
+several licenses: plusieurs licences
+Error highlighting: Erreur en surbrillance
+This file is not a source file: Ce fichier n'est pas un fichier source
+License %s conflicts with %s in %s: Conflit de la licence %s avec %s en %s
+Details: Détails
+File Overview: Vue d'ensemble du fichier
+Legend: Légende
+License: Licence
+Match%: % de correspondances
+Matches: Correspondances
+Tag: Tag
+Value: Valeur
+Free Fields: Champs livres
+Details: Détails
+This file has license conflicts (click to show): Ce fichier est en conflit de licence (cliquez pour afficher )
+No files: Aucun fichier
+Max %: % Maximum
+Global:
+License 1: Licence 1
+Conflict: Conflit
+License 2: Licence 2
+less than %1.0f%% match: Moins de %1. de %% correspondance
+All: Tous
+Reference to the java standard library: Référence de la bibliothèque standard de Java 
+Package declaration don't match with source file path: La déclaration du paquet ne ​​correspond pas avec le chemin du fichier source
+Package declaration missing: Pas de déclaration du paquet
+Empty import declaration: Déclaration d'importation vide
+Empty declaration: Déclaration vide
+Reference points above root directory: Reference au dessus du répertoire racine
+Reference to www document: Référence à un document www
+Reference includes variable: La référence inclu des variables
+Reference include variables e.g. path: La référence inclu des variables comme un chemin
+Empty include declaration: Déclaration vide d'include
+Abreviation not found.: Abréviation introuvable.
+License directory file not found: Fichier du répertoire de licence introuvable
+Found license meta file: Ficher meta de licence trouvé
+Loading license text file: Chargement d fichier texte de la Licence
+Error while opening license text file: Erreur lors de l'ouverture de licence fichier texte
+Loaded license: Licence chargé
+License text file: Fichier texte de Licence
+doesn't exist: n'existe pas
+is null while its meta exists.: Est nul quand son meta existe
+Error while loading license file: Erreur pendant le chargement du fichier licence
+License database loaded: Base de données de licences chargé
+Browse repository folders: Parcourir les dossiers du référentiel
+Cancel: Annuler
+Choose the folder(s) you want to checkout from the repository.: Choisissez les dossiers que vous souhaitez checkout à partir du référentiel
+Help: Aide
+SVN checkout: AVN checkout
+Checked out revision:  Checked out revision
+SVN command failed: Echec de la commande svn
+CVS checkout: Checkout CVS
+Checking out...: 
+Checkout cancelled: Checkout annulé
+checkout failed: Checkout raté
+Finish: Terminer
+Next: Suivant
+Back: Retour
+CVS root: Racine CVS
+specify the location of CVS repository defined by CVS root.: spécifier l'emplacement du dépôt CVS défini par la racine CVS.
+Stop:
+Password: Mot de passe
+Authentication in progress...: Autentification en cours...
+Edit: Editer
+Module to checkout: Module de checkout
+Specify the CVS module and branch  to checkout from CVS repository.: Spécifiez le module CVS et branche au checkout CVS.
+Module:
+Branch: Branche
+(empty means all modules): (Si vide siginifie tous les modules)
+Browse...: Parcourir...
+Specify the local folder to checkout module into.: Spécifiez le dossier local ou vous voulez checkout
+Local folder: Dossier local
+please check username, password and repository: s'il vous plaît vérifier le nom d'utilisateur , mot de passe et le référentiel
+Error: Erreur
+Browse CVS repository: Parcourir CVS
+Aliases: Liste des alias
+Pending...: En attendant...
+Repository Contents: Contenu du référentiel
+Select All: Tout sélectionner
+Copy: Copier
+Paste: Coller
+Subversion repository: Dépôt Subversion
+Specify the location of Subversion repository.: Indiquez l'emplacement du dépôt Subversion .
+Repository URL: URL du dépôt
+Username: Nom d'utilisateur
+(empty means anonymous access): (Vide siginifie anonyme)
+Connecting to Subversion repository...: Connexion à un dépôt Subversion ...
+hostname/repository_path:
+Specify the folder to checkout from Subversion repository.: Spécifiez le dossier à la caisse de dépôt Subversion .
+Repository Folder(s):  Dossier du dépôt
+Repository revision: Révision du dépôt 
+Search: Recherche
+Specify the local folder to checkout folders into.: Spécifiez le dossier local au dossier de checkout
+repository_path:
+action cancelled by user: action annulée par l'utilisateur
+SVN command failed: Echec de la commande SVN
+Apply: Appliquer
+Enter license name and text: Entre le nom et le texte de la licence
+Select compatible licenses: Sélectionnez les licences compatibles
+Add new license: Ajouter une nouvelle licence
+License name: Nom de la licence
+License text: Texte de la licence
+License type: Type de la licence
+Normal:
+Short version: Version courte
+Long version: Version longue
+Forbidden phrase: Phrase interdite
+License: Licence
+Compatible:
+Select all: Tout sélectionner
+Select none: Sélectionnez non
+Invert selection: Inverser la sélection
+License name is empty: Le nom de la licence est vide
+License text is empty: Le texte de la licence est vide
+Could not generate a tree from the chosen file/dir: Impossible de générer un arbre à partir du fichier/répertoire choisi 
+Close file: Fermer le fichier
+Print file: Fichier d'impression
+Preferences: Préférences
+Processing files: Traitement des fichiers
+Please wait: Patientez s'il vous plait
+Details: Détails
+Package Overview: Vue d'ensemble du paquet
+Matches: Correspondances
+Copyright holders: Titulaires du Copyright 
+version 3.0, 2009: version 3.0, 2014
+Export report...: R'apport d'export...
+Download license database...: Base de données de licence de téléchargement ...
+Download license database: Télécharger la base de données de licence
+Download: télécharger
+Status: Statut
+idle: Inactivité
+No package available: Aucun paquet disponible
+Select licenses: Sélectionnez les licences
+Compatible licenses: Licences compatibles
+Use licenses of current package: Utiliser les licences du paquet actuel 
+Please note that the listed licenses are compatible <br>\nindividually - not necessarily if combined: S'il vous plaît noter que les licences énumérés sont compatibles <br>\nindividually - pas nécessairement si combiné
+Delete license...: Suppression de la licence...
+Folder(s) to checkout: Dossier ou checkout
+Local Folder: Dossier local
+Browse: Parcourir
+Long Version: Version longue
+Short Version: Version courte
+Forbidden phrase: Phrase interdite
+Select compatible licenses: Choisissez les licences compatibles
+Create license %s: Créer la licence %s
+Save license %s: Enregistrer la licence %s
+Delete license: Supprimer la licence

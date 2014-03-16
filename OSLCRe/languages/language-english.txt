@@ -33,10 +33,10 @@ Icon:
 License 2:
 Conflicts (global):
 Open Source License Checker:
-version 3.0, 2008:
+version 3.0, 2008: version 3.0.1, 2014
 All:
 OSLC Help:
-OSLC v3.0:
+OSLC v3.0: OSLC v3.0.1
 Overview:
 Source Files:
 All Files:
@@ -53,7 +53,7 @@ Choose...:
 Close:
 Close All:
 Print...:
-Quit:
+Quit :
 View:
 Show Overview:
 Word Wrap:
@@ -174,7 +174,7 @@ Error:
 Browse CVS repository:
 Aliases:
 Pending...:
-Repository contents:
+Repository Contents:
 Select All:
 Copy:
 Paste:
