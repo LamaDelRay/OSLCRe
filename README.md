@@ -6,7 +6,7 @@ Contents:
 - Bug Reports and Feedback
 
 1. INTRODUCTION
-	Open Source License Checker 3.0 is a risk management tool for analyzing open 
+	Open Source License Checker 3.0.1 is a risk management tool for analyzing open 
 	source software licenses. It is developed in Java, and is platform 
 	independent.
 	
@@ -64,5 +64,5 @@ Script files for Unix and Windows:
 For example:
    ./oslccli -r test_sources.zip
 
-5. BUGS AND FEEDBACKS
+4. BUGS AND FEEDBACKS
    	Feel free to report bugs to us on https://inno3.org/groups/open-source-licence-checker-oslc-reloaded
