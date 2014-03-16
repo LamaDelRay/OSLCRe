@@ -1,5 +1,0 @@
-#This is the meta file for ms-cl.txt.
-isCompatible : ms-lcl bsd sleepycat-bdb sleepycat mit bsd-sun
-
-tags : 
-

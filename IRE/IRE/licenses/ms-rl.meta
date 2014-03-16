@@ -1,5 +1,0 @@
-#This is the meta file for ms-rl.txt.
-isCompatible : bsd ms-pl sleepycat-bdb sleepycat mit bsd-sun
-
-tags : 
-
