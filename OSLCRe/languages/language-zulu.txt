@@ -36,7 +36,7 @@ Open Source License Checker:
 version 3.0, 2008: ukulandisa 3.0.1, 2014
 All: Konke
 OSLC Help: Usizo OSLC
-OSLC V3.0: OSLC v3.0.1
+OSLC v3.0: OSLC v3.0.1
 Overview: Uhlolojikelele
 Source Files: Umthombo Amafayela
 All Files: Wonke Amafayela

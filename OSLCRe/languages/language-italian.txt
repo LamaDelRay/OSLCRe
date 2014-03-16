@@ -3,7 +3,7 @@ File opened: File aperto
 Begin processing files.: Inizia l'elaborazione dei file .
 Processing finished.: Elaborazione finito. 
 Processing cancelled.: Elaborazione annullata.  
-Do you want to open a new package? The current one will close.: Vuoi aprire un nuovo pacchetto ? Quella attuale si chiuderà . 
+Do you want to open a new package? The current one will close.: Vuoi aprire un nuovo pacchetto ? Quella attuale si chiuderï¿½ . 
 Confirm package open: Conferma pacchetto open 
 Unpacking files.: Decomprimere i file . 
 File contents cannot be shown: Il contenuto dei file non possono essere visualizzati :
@@ -14,9 +14,9 @@ Choose Criteria: Scegli Criteri
 Choose License: Scegliere licenza
 Choose Match%: Scegli Partita % 
 File not found: File non trovato: 
-Referred file cannot be shown: Fascicolo di cui non può essere mostrato 
-File cannot be shown: Il file non può essere mostrato 
-File is not viewable: Il file non è visualizzabile 
+Referred file cannot be shown: Fascicolo di cui non puï¿½ essere mostrato 
+File cannot be shown: Il file non puï¿½ essere mostrato 
+File is not viewable: Il file non ï¿½ visualizzabile 
 Close File: Chiudi file 
 Print File: Stampa file 
 Preferences: preferenze
@@ -36,7 +36,7 @@ Open Source License Checker: Open Source License Checker
 version 3.0, 2008: versione 3.0.1 , 2014
 All: All 
 OSLC Help: OSLC Help
-OSLC v3.0: V3.0 OSLC 
+OSLC v3.0: OSLC v3.0.1 
 Overview: Panoramica
 Source Files: File Fonte
 All Files: Tutti i file
@@ -85,7 +85,7 @@ Copyrighted Files: I file protetti da copyright
 Copyright Holders: Titolari di copyright 
 Tools: Strumenti
 List compatible licenses...: Licenze compatibili List ... 
-License with that name already exists!: Licenza con quel nome esiste già ! 
+License with that name already exists!: Licenza con quel nome esiste giï¿½ ! 
 Error: Errore
 Create %s license?: Creare licenza % s ? 
 Add new license?: Aggiungi una nuova licenza? 
@@ -95,11 +95,11 @@ Chosen license has no compatible licenses: Licenza scelta non ha licenze compati
 File you selected does not exist: File voi selezionato non esiste 
 Select language: Scegli la lingua 
 Create new language file: Creare un nuovo file di lingua 
-This file is missing a license:Questo file è mancante di una licenza 
+This file is missing a license:Questo file ï¿½ mancante di una licenza 
 This file corresponds to: Questo file corrisponde a
-several licenses: più licenze 
+several licenses: piï¿½ licenze 
 Error highlighting: Evidenziazione di errore
-This file is not a source file: Questo file non è un file di origine
+This file is not a source file: Questo file non ï¿½ un file di origine
 License %s conflicts with %s in %s:Conflitti licenza % s con % s in% s
 Details:Dettagli
 File Overview: File Panoramica
@@ -138,7 +138,7 @@ Error while opening license text file: Errore durante l'apertura di file di test
 Loaded license:Licenza Loaded 
 License text file: File di testo licenza 
 doesn't exist:non esiste 
-is null while its meta exists.:è nullo mentre la sua meta esiste. 
+is null while its meta exists.:ï¿½ nullo mentre la sua meta esiste. 
 Error while loading license file: Errore durante il caricamento del file di licenza 
 License database loaded:Database di licenza caricato
 Browse repository folders:Sfogliare le cartelle del repository 
@@ -210,8 +210,8 @@ Compatible:compatibile
 Select all:Seleziona tutto 
 Select none:Seleziona none 
 Invert selection:Inverti selezione 
-License name is empty:Nome di licenza è vuota 
-License text is empty:Testo della licenza è vuota 
+License name is empty:Nome di licenza ï¿½ vuota 
+License text is empty:Testo della licenza ï¿½ vuota 
 Could not generate a tree from the chosen file/dir:
 Close file: Impossibile generare un albero dalla scelta file / dir Chiudi il file 
 Print file: File di stampa 
@@ -222,7 +222,7 @@ Details:Dettagli
 Package Overview:Panoramica del pacchetto 
 Matches:partite 
 Copyright holders:Titolari di copyright 
-version 3.0, 2009:versione 3.1 , 2014
+version 3.0, 2009:versione 3.0.1 , 2014
 Export report...:Relazione Export ... 
 Download license database...:Scarica database delle licenze ... 
 Download license database:Scarica database di licenza 
@@ -253,7 +253,7 @@ Delete license:Licenza Elimina
     Blog
     About
 
-    © 2014 GitHub, Inc.
+    ï¿½ 2014 GitHub, Inc.
     Terms
     Privacy
     Security

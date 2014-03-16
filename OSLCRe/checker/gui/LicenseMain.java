@@ -21,6 +21,7 @@
 
 package checker.gui;
 
+import java.awt.Color;
 import java.awt.Component;
 import java.awt.Toolkit;
 import java.awt.event.ItemEvent;
@@ -801,6 +802,7 @@ public class LicenseMain extends javax.swing.JFrame implements LicenseProcessLis
 			URL url = HelpSet.findHelpSet(cl, "documentation/OSLC.hs");
 			JHelp helpViewer = new JHelp(new HelpSet(cl, url));
 			helpFrame.getContentPane().add(helpViewer);
+			helpFrame.getContentPane().setBackground(Color.yellow);
 		} catch (Exception e) {
 			ErrorManager.error(loc.lc("HelpSet not found"), e);
 		}
@@ -1012,6 +1014,7 @@ public class LicenseMain extends javax.swing.JFrame implements LicenseProcessLis
 
         org.jdesktop.layout.GroupLayout prefsDialogLayout = new org.jdesktop.layout.GroupLayout(prefsDialog.getContentPane());
         prefsDialog.getContentPane().setLayout(prefsDialogLayout);
+        prefsDialog.getContentPane().setBackground(Color.yellow);
         prefsDialogLayout.setHorizontalGroup(
             prefsDialogLayout.createParallelGroup(org.jdesktop.layout.GroupLayout.LEADING)
             .add(prefsPanel, org.jdesktop.layout.GroupLayout.PREFERRED_SIZE, org.jdesktop.layout.GroupLayout.DEFAULT_SIZE, org.jdesktop.layout.GroupLayout.PREFERRED_SIZE)
@@ -1211,11 +1214,11 @@ public class LicenseMain extends javax.swing.JFrame implements LicenseProcessLis
 
         aboutLabel1.setText(loc.lc("Open Source License Checker"));
 
-        aboutLabel2.setText("version 3.0, 2009");
+        aboutLabel2.setText("version 3.0.1, 2014");
 
         aboutTextPane.setContentType("text/html");
         aboutTextPane.setEditable(false);
-        aboutTextPane.setText("<html>\n<p>This software is released under GPL 2.0 license.</p>\nJing Jing-Helles<br>\nSakari K‰‰ri‰inen<br>\nYuan Yuan<br>\nLauri Koponen<br>\nVeli-Jussi Raitila<br>\nMika Rajanen<br>\nXie Xiaolei<br>\nJussi Sirpoma<br>\nMikko Kupsu<br>\nEetu Jalonen<br>\nJyrki Laine<br>\nJohannes Heikkinen<br>\nEero Kurkela<br>\nTuomo Jorri<br>\nLasse Parikka<br>\n</p>\n<p>\nFor more info about the application:<br>\n<a href=\"http://forge.objectweb.org/projects/oslcv3/\">http://forge.objectweb.org/projects/oslcv3/</a><br>\n</p>\n<p>\nThis project is created for the T-76.4115 course in<br>\nSoftware Engineering and Business lab, <br>\nin Computer Science and Engineering department <br>\nof Helsinki University of Technology<br>\n</p>\n<p>\nSpecial thanks to Prof. Juha Laine, Ville Oksanen, Seppo Sahi, Jari Vanhanen and Ossi Syd<br>\nfor guiding us throughout the project.<br>\n</p>\n</html>\n");
+        aboutTextPane.setText("<html>\n <BODY bgcolor=\"#003366\"> <font color=\"#E2F3F1\"> <p> <strong> This software is released under GPL 2.0 license. </p>\n<p>  Team list :</strong><br>\n<br>\nTheo Salvetti<br>\nEddy Miot<br>\nAntoine Janvrot<br>\nRaphael Pierre-Ellien<br>\nLyess Daoud<br>\n</p><p> <strong> Previous developpers:<br>\n</strong>  Jing Jing-Helles<br>\nSakari K√§√§ri√§inen<br>\nYuan Yuan<br>\nLauri Koponen<br>\nVeli-Jussi Raitila<br>\nMika Rajanen<br>\nXie Xiaolei<br>\nJussi Sirpoma<br>\nMikko Kupsu<br>\n\nEetu Jalonen<br>\nJyrki Laine<br>\nJohannes Heikkinen<br>\nEero Kurkela<br>\nTuomo Jorri<br>\nLasse Parikka<br>\n<br>\nThis project was created for the T-76.4115 course in<br>\nSoftware Engineering and Business lab, <br>\nin Computer Science and Engineering department <br>\n of Helsinki University of Technology<br>\n</p>\n<p>\n they especially thanks : Prof. Juha Laine, Ville Oksanen, Seppo Sahi, Jari Vanhanen and Ossi Syd<br>\nfor guiding them throughout the project.<br>\n </p>   </p> <p><strong>For more info about the application:</strong><br>\n<a href=\"https://github.com/LamaDelRay/OSLCre.git\">https://github.com/LamaDelRay/OSLCRe.git</a><br>\n</p>\n<p>\nThis project is a reload of Open Source Licence Checker v3.0 for the Linux Code Camp of <br>\nPrep'Etna for Inno3 and Veni Vidi Libri<br>\n</p>\n</font></BODY></html>\n" );
         aboutScrollPane.setViewportView(aboutTextPane);
 
         org.jdesktop.layout.GroupLayout aboutDialogLayout = new org.jdesktop.layout.GroupLayout(aboutDialog.getContentPane());
@@ -1253,6 +1256,7 @@ public class LicenseMain extends javax.swing.JFrame implements LicenseProcessLis
 
         org.jdesktop.layout.GroupLayout criteriaDialogLayout = new org.jdesktop.layout.GroupLayout(criteriaDialog.getContentPane());
         criteriaDialog.getContentPane().setLayout(criteriaDialogLayout);
+        criteriaDialog.getContentPane().setBackground(Color.yellow);
         criteriaDialogLayout.setHorizontalGroup(
             criteriaDialogLayout.createParallelGroup(org.jdesktop.layout.GroupLayout.LEADING)
             .add(criteriaDialogLayout.createSequentialGroup()
@@ -1429,6 +1433,8 @@ public class LicenseMain extends javax.swing.JFrame implements LicenseProcessLis
 
         org.jdesktop.layout.GroupLayout rightPanelLayout = new org.jdesktop.layout.GroupLayout(rightPanel);
         rightPanel.setLayout(rightPanelLayout);
+        rightPanel.setBackground(Color.lightGray);
+//        rightPanel.setForeground(Color.black);
         rightPanelLayout.setHorizontalGroup(
             rightPanelLayout.createParallelGroup(org.jdesktop.layout.GroupLayout.LEADING)
             .add(tabbedPane, org.jdesktop.layout.GroupLayout.DEFAULT_SIZE, 490, Short.MAX_VALUE)
@@ -1721,6 +1727,7 @@ public class LicenseMain extends javax.swing.JFrame implements LicenseProcessLis
         setJMenuBar(menuBar);
 
         org.jdesktop.layout.GroupLayout layout = new org.jdesktop.layout.GroupLayout(getContentPane());
+        getContentPane().setBackground(Color.yellow);
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(org.jdesktop.layout.GroupLayout.LEADING)

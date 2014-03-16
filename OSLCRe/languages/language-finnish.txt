@@ -37,10 +37,10 @@ License 2:Lisenssi 2
 Conflicts (global):Konfliktit (globaalit)
 About OSLC:OSLC:stä
 Open Source License Checker:Open Source License Checker
-version 3.0, 2008:versio 3.0, 2008
+version 3.0, 2008:version 3.0.1, 2014
 All:Kaikki
 OSLC Help:OSLC Ohjeet
-OSLC v3.0:OSLC v3.0
+OSLC v3.0:OSLC v3.0.1
 Overview:Yleiskatsaus
 Source Files:Lähdekooditiedostot
 All Files:Kaikki tiedostot
@@ -287,7 +287,7 @@ Details:Yksityiskohdat
 Package Overview:Paketin yleisnäkymä
 Matches:Osumat
 Copyright holders:Tekijänoikeuden haltijat
-version 3.0, 2009:versio 3.0, 2009
+version 3.0, 2009:versio 3.0.1, 2014
 Export report...:Tallenna raportti...
 Checkout From SVN...:Lataa SVN:stä...
 Download license database...:Lataa lisenssitietokanta...

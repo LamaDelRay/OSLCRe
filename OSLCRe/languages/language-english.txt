@@ -221,7 +221,7 @@ Details:
 Package Overview:
 Matches:
 Copyright holders:
-version 3.0, 2009:
+version 3.0, 2009: version 3.0.1, 2014
 Export report...:
 Download license database...:
 Download license database:
